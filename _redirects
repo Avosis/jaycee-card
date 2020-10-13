@@ -1,2 +1,4 @@
+# Redirects from what the browser requests to what we serve
+/*               https://zurly.com/gainesville-jaycees:splat 200
+/member/*         https://zurly.com/gainesville-jaycees/member:splat 200
 
-gainesville-jaycees
